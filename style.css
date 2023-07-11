@@ -104,11 +104,13 @@ h2 {
     margin-bottom: 5%;
     display: flex;
     padding-left: 5%;
+    margin: 0 15% 0 5%;
 
 }
 
 .newsection img {
-    width: min-content;
+    width: 300px;
+    flex-wrap: wrap;
 }
 
 .button1 {
