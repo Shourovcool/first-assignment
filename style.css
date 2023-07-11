@@ -1,0 +1,151 @@
+body {
+    font-family: 'Belanosima', sans-serif;
+    margin: 0;
+}
+
+p {
+    color: rgb(156, 146, 146);
+}
+
+.big-size {
+    font-size: 60px;
+    color: white;
+}
+
+.home {
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    padding: 8%;
+}
+
+.donation-link {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgb(236, 70, 70), rgb(255, 94, 0));
+    padding: 15px 25px;
+    border-radius: 10px;
+}
+
+.head2size {
+    font-size: 40px;
+    color: black;
+}
+
+.donation {
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: 10%;
+}
+
+.tk {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 20px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 30px;
+    color: grey;
+}
+
+#two {
+    background-color: rgba(241, 233, 220, 0.938);
+    padding: 0 3% 0 3%;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+
+#focus {
+    color: rgba(255, 72, 72, 0.904);
+}
+
+.other input {
+    border: none;
+    outline: none;
+    border-bottom: 1px solid grey;
+    text-align: center;
+    padding: 0px 20%;
+    padding-bottom: 10px;
+    margin-bottom: 3%;
+}
+
+.displaycn {
+    display: flex;
+    margin: 5% 8%;
+}
+
+.bgcolor {
+    text-align: left;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+
+.shadow1 {
+    background-color: rgb(236, 255, 249);
+    padding: 5% 3% 5% 2%;
+}
+
+.shadow2 {
+    background-color: rgb(252, 245, 241);
+    padding: 5% 3% 5% 2%;
+}
+
+.shadow3 {
+    background-color: rgb(253, 243, 216);
+    padding: 5% 3% 5% 2%;
+}
+
+.newsection {
+    margin-bottom: 5%;
+    display: flex;
+    padding-left: 5%;
+
+}
+
+.newsection img {
+    width: min-content;
+}
+
+.button1 {
+    background-color: rgba(128, 128, 128, 0.2);
+    padding: 10px 25px 10px 25px;
+    border-radius: 5px 0px 0px 5px;
+    border: none;
+    outline: none;
+}
+
+.button2 {
+    color: white;
+    background-image: linear-gradient(#fc6f29, #ee4f51);
+    padding: 10px 25px 10px 25px;
+    border-radius: 0px 5px 5px 0px;
+    border: none;
+    outline: none;
+}
+
+.email {
+    background-color: beige;
+    margin: 3% 25%;
+    padding: 5%;
+}
+
+.addeded {
+    text-align: center;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+#newfont {
+    font-family: 'Pacifico', cursive;
+    color: rgb(233, 114, 3);
+}
+
+#p-color {
+    color: rgb(255, 255, 255);
+}
